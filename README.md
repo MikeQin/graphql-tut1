@@ -12,7 +12,7 @@ npm init
 npm install -g nodemon
 ```
 
-### Install express graphql express-graphql
+### Install express express-graphql graphql lodash mongoose
 ```
-npm install express graphql express-graphql lodash
+npm install express express-graphql graphql lodash mongoose
 ```
