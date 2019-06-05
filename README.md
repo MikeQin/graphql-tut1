@@ -16,3 +16,6 @@ npm install -g nodemon
 ```
 npm install express express-graphql graphql lodash mongoose
 ```
+
+### Install cors --save
+npm install cors --save
