@@ -1,4 +1,4 @@
-# GraphQL Tutorial 1
+# GraphQL Server
 
 [GraphQL Full Course - Novice to Expert](https://youtu.be/ed8SzALpx1Q)
 
